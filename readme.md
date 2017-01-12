@@ -4,7 +4,7 @@ As a requirement of Backend Certification of freeCodeCamp.
 Freecodecamp Challenge: https://www.freecodecamp.com/challenges/store-data-in-mongodb
 </p>
 <hr>
-<b>Learnyoumongo Solution Screenshot</b>
+<b>Learnyoumongo Solution Screenshot</b><br>
 ![alt Learnyoumongo Solution](https://raw.githubusercontent.com/arsho/learnyoumongo_solution/master/learnyoumongo_solution.png)
 <hr>
 
